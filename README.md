@@ -22,4 +22,9 @@ python -m src.eval
 - 3-shot
 - 5 reasoning paths
 
+| Method | Accuracy |
+| ------------ | ------------- |
+| CoT-prompting | 44.8  |
+| Self-consistency | 50.0 (+5.2)  |
+
 ![image](https://github.com/akpe12/Self-consistency/assets/77143331/31b2f64d-9a09-477e-a3f7-4f1304d557ae)
