@@ -28,3 +28,9 @@ python -m src.eval
 | Self-consistency | 50.0 (+5.2)  |
 
 ![image](https://github.com/akpe12/Self-consistency/assets/77143331/31b2f64d-9a09-477e-a3f7-4f1304d557ae)
+
+#### Evaluation cost
+| Method | Cost |
+| ------------ | ------------- |
+| CoT-prompting | $0.15  |
+| Self-consistency | $0.75  |
